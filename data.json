@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "App Development",
+        "image": "https://www.pexels.com/photo/sea-dawn-sunset-beach-16117986/",
+        "description":"lorem ipsum n literary theory, a text is any object that can be whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing. It is a coherent set of signs that transmits some kind of informative"
+    },
+    {
+        "id": "2",
+        "title": "React native Development",
+        "image": "https://www.pexels.com/photo/sea-dawn-sunset-beach-16117986/",
+        "description":"lorem ipsum n literary theory, a text is any object that can be whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing. It is a coherent set of signs that transmits some kind of informative"
+    }
+]
